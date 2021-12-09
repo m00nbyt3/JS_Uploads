@@ -1,1 +1,1 @@
-console.log("injected");
+confirm();
