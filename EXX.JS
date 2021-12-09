@@ -1,0 +1,1 @@
+</a><scipt>document.body.innerHTML='<p>hey</p>'</script>
